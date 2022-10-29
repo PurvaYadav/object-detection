@@ -1,0 +1,28 @@
+.heading {
+    width: 100%;
+    color: white;
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+p {
+    color: black;
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.body_background {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Name {
+    width: 40%;
+}
+
+canvas {
+    box-shadow: 5px, 5px grey;
+    background-color: red;
+    border-radius: 20px;
+}
